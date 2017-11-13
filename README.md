@@ -28,10 +28,10 @@ there's another piece who must do a capture.
 You can undo the last move, for as many times as you want, by clicking on the "Undo" label.
 
 ◎ = common piece
- = promoted piece
+◉ = promoted piece
 
 # Additional info
-	Recommended to use a maximized screen, as it's not responsive for now.
+	The board should adapt to the smallest dimension of the screen.
 	Tested on Chrome 61, Firefox 57, and IE11 but it should work on older versions after IE8 too.
 
 # Known issues (to dos)
