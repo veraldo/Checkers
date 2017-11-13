@@ -1,5 +1,5 @@
 # Checkers
-Qulture.Rocks programming challenge
+© 2017 Everaldo
 
 # Rules
 	This implementation is based on the Brazilian Draughts Rules, which includes:
