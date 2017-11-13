@@ -28,6 +28,7 @@ there's another piece who must do a capture.
 You can undo the last move, for as many times as you want, by clicking on the "Undo" label.
 
 ◎ = common piece
+
 ◉ = promoted piece
 
 # Additional info
