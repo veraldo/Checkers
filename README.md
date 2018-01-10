@@ -39,5 +39,5 @@ You can undo the last move, for as many times as you want, by clicking on the "U
 	A capture by a promoted piece is not mandatory until selecting it.
 	In case of two possible captures, it's not mandatory to make the best move.
 	In some cases a capturable piece is not detected until the adjacent piece is selected.
-	When undoing a a sequence, the previous captured pieces are not highlighted as such. A workaroud is to undo the whole sequence.
+	When undoing a sequence of captures, some captured pieces may not be restored or highlighted properly.
 	There's a variable n to define a n x n board, but it does not work properly with a odd n. It's fixed in 8 in the code for now.
